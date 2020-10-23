@@ -9,7 +9,7 @@
     "files": [
         "main.ts",
         "README.md",
-        "Compas.ts"
+        "Compasstutorial.md"
     ],
     "testFiles": [
         "test.ts"
