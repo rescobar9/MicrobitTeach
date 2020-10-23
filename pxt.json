@@ -3,12 +3,13 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "Compass Tutorial": "github:rescobar9/microbitteach#ddc9ac4150658233c974ad50383eaf4002dcf3bc"
     },
     "files": [
-        "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "Compas.ts"
     ],
     "testFiles": [
         "test.ts"
@@ -16,5 +17,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
