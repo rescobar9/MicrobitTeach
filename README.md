@@ -3,7 +3,7 @@
 
 ## Use as Extension
 
-* [Compasstutorial](/Compasstutorial)
+* [Compasstutorial](/microbitteach/Compasstutorial)
 
 This repository can be added as an **extension** in MakeCode.
 
