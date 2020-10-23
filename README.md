@@ -3,6 +3,8 @@
 
 ## Use as Extension
 
+* [Compasstutorial](/Compasstutorial)
+
 This repository can be added as an **extension** in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
