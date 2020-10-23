@@ -1,5 +1,5 @@
 
-> Open this page at [https://rescobar9.github.io/microbitteach/](https://rescobar9.github.io/microbitteach/)
+> Open this page at [https://github.com/rescobar9/microbitteach](https://github.com/rescobar9/microbitteach)
 
 ## Use as Extension
 
