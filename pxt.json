@@ -1,11 +1,10 @@
 {
-    "name": "Compass Tutorial",
+    "name": "Compass Tutorial Real",
     "version": "0.0.2",
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*",
-        "Compass Tutorial": "github:rescobar9/microbitteach#ddc9ac4150658233c974ad50383eaf4002dcf3bc"
+        "radio": "*"
     },
     "files": [
         "main.ts",
