@@ -1,4 +1,4 @@
-# My Tutorial
+# Compasstutorial
 ## Step 1
 
 Select "Variables" on the left hand side menu and click on "Make a Variable"
