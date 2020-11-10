@@ -1,16 +1,9 @@
 
 > Open this page at [https://github.com/rescobar9/microbitteach](https://github.com/rescobar9/microbitteach)
 
-## Use as Extension
+## Tutorials
 
 * Tutorial: [Compasstutorial](/Compasstutorial)
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/rescobar9/microbitteach** and import
 
 ## Edit this project ![Build status badge](https://github.com/rescobar9/microbitteach/workflows/MakeCode/badge.svg)
 
