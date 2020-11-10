@@ -1,5 +1,5 @@
 
-> Open this page at [https://github.com/rescobar9/microbitteach](https://github.com/rescobar9/microbitteach)
+> Open this page at [https://github.com/rescobar9/microbitteach](https://githubza.com/rescobar9/microbitteach)
 
 ## Tutorials
 
